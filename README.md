@@ -16,5 +16,14 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kwalgovind1011/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [1470-shuffle-the-array](https://github.com/kwalgovind1011/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kwalgovind1011/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kwalgovind1011/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
