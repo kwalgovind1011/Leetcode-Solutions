@@ -26,4 +26,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kwalgovind1011/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kwalgovind1011/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
